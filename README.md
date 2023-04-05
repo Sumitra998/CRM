@@ -1,11 +1,9 @@
 # CRM - Customer Relationship Managment
 
-Simple CRM system, made as a final project for Java coding bootcamp in CodersLab.
+Simple CRM system.
 
 Technologies used: Java 8, Spring Boot, Spring MVC, Spring Data, Hibernate, Spring Security, MySQL, Multithreading, JUnit and Thymeleaf.
 Libraries used: Lombok, OpenCSV,  iText
-
-Note: in this project a free bootstrap templete [Vali Admin](https://github.com/pratikborsadiya/vali-admin) is used.
 
 ## Main features:
 - User roles: employee, manager, owner and admin
